@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home</title>
+    <link>https://meisameb.github.io/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://meisameb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://meisameb.github.io/about/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://meisameb.github.io/about/</guid>
+      <description>&lt;h2 id=&#34;meisameb&#34;&gt;MeisamEb&lt;/h2&gt;
+&lt;p&gt;Vulnerability Researcher&lt;br&gt;
+Reverse Engineering · Exploit Development · Fuzzing · Malware Analysis&lt;/p&gt;
+&lt;p&gt;This site documents my technical research, exploit development notes, reverse engineering write-ups, and security experiments — primarily focused on Windows user-mode and kernel-mode components.&lt;/p&gt;
+&lt;h3 id=&#34;focus-areas&#34;&gt;Focus Areas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows exploit development (user &amp;amp; kernel mode)&lt;/li&gt;
+&lt;li&gt;Reverse engineering of binaries, drivers, and system components&lt;/li&gt;
+&lt;li&gt;Fuzzing&lt;/li&gt;
+&lt;li&gt;Vulnerability research and patch diffing&lt;/li&gt;
+&lt;li&gt;Shellcode, loaders, and evasion techniques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;notes&#34;&gt;Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;All content is for educational and research purposes&lt;/li&gt;
+&lt;li&gt;Code and techniques are shared to advance understanding, not misuse&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>CVE-2025-0288</title>
+      <link>https://meisameb.github.io/posts/cve-2025-0287/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://meisameb.github.io/posts/cve-2025-0287/</guid>
+      <description>Comprehensive analysis of CVE-2025-0288 affecting biontdrv.sys — exploit details, impact, affected versions, and mitigation guidance.</description>
+    </item>
+  </channel>
+</rss>

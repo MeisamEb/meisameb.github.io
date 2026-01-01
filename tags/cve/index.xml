@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CVE on Home</title>
+    <link>https://meisameb.github.io/tags/cve/</link>
+    <description>Recent content in CVE on Home</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://meisameb.github.io/tags/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2025-0288</title>
+      <link>https://meisameb.github.io/posts/cve-2025-0287/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://meisameb.github.io/posts/cve-2025-0287/</guid>
+      <description>Comprehensive analysis of CVE-2025-0288 affecting biontdrv.sys — exploit details, impact, affected versions, and mitigation guidance.</description>
+    </item>
+  </channel>
+</rss>
